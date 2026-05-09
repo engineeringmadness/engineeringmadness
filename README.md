@@ -32,7 +32,6 @@ Thinking model: GPT 5.5 (OpenAI API)
 #### Skills Used
 1. [powerpoint](https://skills.sh/igorwarzocha/opencode-workflows/powerpoint)
 2. [xlsx](https://skills.sh/anthropics/skills/xlsx)
-3. [xlsx-manipulation](https://skills.sh/claude-office-skills/skills/xlsx-manipulation)
 4. [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - Skill to find other skills
 
 #### MCP Servers
