@@ -2,8 +2,6 @@
 
 I am a software developer with around 7 years experience in the industry. I am an ardent pragmatist when it comes to designing software, rationalist when it comes to deadines and love connecting the dots by building system integrations. Nowadays I am working on a data platform team building backend services (Java, Spring Boot, Kubernetes) for orchestration, access management, data catalogging etc. Also work on big data pipelines on the side using the Databricks Stack (PySpark, Delta Lake, Unity Catalog).
 
-Sometimes you may find me ranting at - https://engineeringmadness.dev/
-
 Interesting articles / podcasts - https://engineeringmadness.dev/tags/zettels/
 
 ### AI Setup
@@ -25,10 +23,8 @@ Thinking model: GPT 5.3 Codex (OpenAI API)
 ### Knowledge Work Stack:
 ```
 Harness: OpenWork
-Main Model: GLM 4.6 (Opencode Zen Bigpickle)
-Thinking model: GPT 5.5 (OpenAI API)
+Main Model: Minimax M2.5 (Opencode Zen Free Tier)
 ```
-
 #### Skills Used
 1. [powerpoint](https://skills.sh/igorwarzocha/opencode-workflows/powerpoint)
 2. [xlsx](https://skills.sh/anthropics/skills/xlsx)
