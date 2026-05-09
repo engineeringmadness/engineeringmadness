@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**engineeringmadness/engineeringmadness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with around 7 years experience in the industry. I am an ardent pragmatist when it comes to designing software, rationalist when it comes to deadines and love connecting the dots by building system integrations. Nowadays I am working on a data platform team building backend services (Java, Spring Boot, Kubernetes) for orchestration, access management, data catalogging etc. Also work on big data pipelines on the side using the Databricks Stack (PySpark, Delta Lake, Unity Catalog).
 
-Here are some ideas to get you started:
+Sometimes you may find me ranting at - https://engineeringmadness.dev/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesting articles / podcasts - https://engineeringmadness.dev/tags/zettels/
+
+### AI Setup
+
+### Coding Stack: 
+```
+Harness: OpenCode Web
+Main model: Kimi K2.6 (Moonshot API)
+Thinking model: GPT 5.3 Codex (OpenAI API) 
+```
+#### Skills Used
+1. [brainstorming](https://skills.sh/obra/superpowers/brainstorming) - Supercharging plan mode to go back and forth with the agent via rigourous Q&A
+2. [tdd](https://skills.sh/mattpocock/skills/tdd) - Suitable for core functionality building by making agent go in red-green-refactor loop
+3. [graphify](https://github.com/safishamsi/graphify) - Uses a tree sitter to build a knowledge graph of the codebase and enhance agent context
+
+#### MCP Servers
+[Context7](https://context7.com/) - Up to date agent docs for cutting edge languages, libraries, frameworks
+
+### Knowledge Work Stack:
+```
+Harness: OpenWork
+Main Model: GLM 4.6 (Opencode Zen Bigpickle)
+Thinking model: GPT 5.5 (OpenAI API)
+```
+
+#### Skills Used
+1. [powerpoint](https://skills.sh/igorwarzocha/opencode-workflows/powerpoint)
+2. [xlsx](https://skills.sh/anthropics/skills/xlsx)
+3. [xlsx-manipulation](https://skills.sh/claude-office-skills/skills/xlsx-manipulation)
+4. [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - Skill to find other skills
+
+#### MCP Servers
+[Notion MCP](https://developers.notion.com/guides/mcp/overview) - To integrate with my notes app
