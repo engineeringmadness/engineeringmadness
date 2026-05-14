@@ -6,10 +6,8 @@ Interesting articles / podcasts - https://engineeringmadness.dev/tags/zettels/
 
 ### AI Stack: 
 ```
-Harness: OpenCode
-Free model: GLM 4.6 (Zen Free Tier)
-Main model: Kimi K2.6 (Moonshot API)
-Thinking model: GPT 5.3 Codex (OpenAI API) 
+Work: OpenCode + GPT 5.3 Codex / Claude Haiku via GitHub Copilot
+Fun (experimenting with coding via my phone): Claude Code + Kimi K2.5 via Moonshot API
 ```
 #### Skills
 1. [brainstorming](https://skills.sh/obra/superpowers/brainstorming) - Supercharging plan mode to go back and forth with the agent via rigourous Q&A
