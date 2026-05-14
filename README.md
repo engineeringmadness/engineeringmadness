@@ -16,5 +16,4 @@ Fun (experimenting with coding via my phone): Claude Code + Kimi K2.5 via Moonsh
 
 #### MCP Servers
 1. [Context7](https://context7.com/) - Up to date agent docs for cutting edge languages, libraries, frameworks
-2. [Notion](https://developers.notion.com/guides/mcp/overview) - To integrate with my notes app
 3. [Chrome Devtools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp)
