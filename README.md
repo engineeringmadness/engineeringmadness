@@ -6,14 +6,11 @@ Interesting articles / podcasts - https://engineeringmadness.dev/tags/zettels/
 
 ### AI Stack: 
 ```
-Work: OpenCode + GPT 5.3 Codex / Claude Haiku via GitHub Copilot
-Fun (experimenting with coding via my phone): Claude Code + Kimi K2.5 via Moonshot API
+Work: OpenCode + GPT 5.3 Codex / Claude Haiku via GitHub Copilot plan
+Home: OpenCode + GLM 5.1 / Kimi K2.5 via OpenCode Go plan
 ```
-#### Skills
+#### Skills I found to be useful
 1. [brainstorming](https://skills.sh/obra/superpowers/brainstorming) - Supercharging plan mode to go back and forth with the agent via rigourous Q&A
-2. [tdd](https://skills.sh/mattpocock/skills/tdd) - Suitable for core functionality building by making agent go in red-green-refactor loop
-3. [graphify](https://github.com/safishamsi/graphify) - Uses a tree sitter to build a knowledge graph of the codebase and enhance agent context
-
-#### MCP Servers
-1. [Context7](https://context7.com/) - Up to date agent docs for cutting edge languages, libraries, frameworks
-3. [Chrome Devtools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp)
+2. [writing-plans](https://www.skills.sh/obra/superpowers/writing-plans) - To convert brainstorming session into structured markdown doc 
+3. [tdd](https://skills.sh/mattpocock/skills/tdd) - Suitable for core functionality building by making agent go in red-green-refactor loop
+4. [graphify](https://github.com/safishamsi/graphify) - Uses a tree sitter to build a knowledge graph of the codebase and enhance agent context
